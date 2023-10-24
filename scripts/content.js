@@ -1,4 +1,3 @@
-console.log('content captainov log')
 const apiKey = "<<your key>>"
 const baseUrl = "https://api.openai.com/v1/chat/completions"
 
